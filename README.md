@@ -10,7 +10,23 @@
 
 ## 样张展示
 
-本批按节约算力要求完成封装，未调用图像模型、未生成示例图片。已检查原稿、链接和运行脚本；真实生图效果尚未验收。以下为调用示例，不是已生成的作品。
+以下为 Panel 169 从不同源图独立生成的 8 张首轮样张，使用简短英文文案。横图为 1536×864、左右等分；竖图为 1152×1536、上下等分。
+
+已逐张复核暖白纸面、孤立墨线插画和源图对应关系。06、09 混入蓝色，07、12 保留较多场景，08 线条偏粗且偏卡通，部分插画或文字偏大，未全部满足原稿的有限色板、纤细墨线与 75–85% 留白要求。以下为首轮实际结果，不作为全部合格的风格示范。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 适用场景与解决的问题
 
