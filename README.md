@@ -10,23 +10,27 @@
 
 ## 样张展示
 
-以下为 Panel 169 从不同源图独立生成的 8 张首轮样张，使用简短英文文案。横图为 1536×864、左右等分；竖图为 1152×1536、上下等分。
+2026-09-09 重制：本页 8 张 AI 生成样张均使用独立原图，4 横版＋4 竖版。本批覆盖 159、161–171，共 96 个不同源文件（SHA-256 无重复）；160 未改动。每张使用本 Panel 原生脚本与完整原始提示词生成，配简短英文文案。
 
-已逐张复核暖白纸面、孤立墨线插画和源图对应关系。06、09 混入蓝色，07、12 保留较多场景，08 线条偏粗且偏卡通，部分插画或文字偏大，未全部满足原稿的有限色板、纤细墨线与 75–85% 留白要求。以下为首轮实际结果，不作为全部合格的风格示范。
+保留原生 PNG，未缩放、裁切或修正分界。横图均为 1672×941（约 16:9），竖图均为 1086×1448（3:4）。横图分界接近中点；本组竖图原图区约占 41.0–50.1%，不能据此宣称全部严格 50:50。
 
-16:9 · 50:50
+已检查全部大图与缩略图，并验证元数据清理。以下展示真实生成结果，**不代表全部通过风格验收**。部分汽车、城镇及桌面细节偏多；个别动物形象偏卡通，未完全满足纤细墨线与极简要求。
 
-| sample-05 | sample-06 |
+[生成与哈希核对记录](assets/examples/unique-20260909-audit.json)
+
+### 横版 4 张 · 原图在左，设计在右
+
+| 05 | 06 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
+| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
 
-3:4 · 50:50
+### 竖版 4 张 · 原图在上，设计在下
 
-| sample-09 | sample-10 |
+| 09 | 10 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
+| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
 
 ## 适用场景与解决的问题
 
@@ -121,22 +125,3 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 - 本协议只授予其中明确写出的著作权许可和有限的专利许可，不授予商标、品牌名称或其他未明确授予的权利，也不能把你的许可再转授给他人。
 - 如果收到书面违约通知，须在 32 天内纠正并采取实际补救措施，否则许可会立即终止；就专利侵权提出书面主张也会终止专利许可。
 - 内容按“现状”提供，在法律允许的范围内不作任何担保，使用风险和可能的损失由使用者自行承担。
-
-
-## Re-selected inputs / 重新选图
-
-Input image for this panel: `assets/inputs/input-11`
-
-![Re-selected input](assets/inputs/input-11.jpg)
-
-
-## Rebuilt samples / 重制样张
-
-![left_right-01](PROMPT/left_right-01.png)
-![left_right-02](PROMPT/left_right-02.png)
-![left_right-03](PROMPT/left_right-03.png)
-![left_right-04](PROMPT/left_right-04.png)
-![top_bottom-01](PROMPT/top_bottom-01.png)
-![top_bottom-02](PROMPT/top_bottom-02.png)
-![top_bottom-03](PROMPT/top_bottom-03.png)
-![top_bottom-04](PROMPT/top_bottom-04.png)
