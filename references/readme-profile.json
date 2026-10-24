@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 169｜Warm Ochre Ink-line Spot Illustration: redraws the most recognisable subject of a photo as a small, isolated spot illustration that stops once the important part is drawn — loose, fine, slightly hesitant charcoal-black ink lines with broken and searching strokes, and thin transparent watercolour or gouache in ochre, tan and khaki with only a touch of burnt or terracotta orange on warm white paper, no competing blue, green or purple and no full background. About 75–85% of the design stays unpainted paper and 15–25% holds the subject, with a few words in a small, slightly imperfect editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-169 or asks for a spot illustration, vignette ink sketch or warm ochre pen-and-wash from a photo.",
+  "short_description": "暖赭小幅墨线志：用松动炭黑墨线和赭黄淡彩，把照片主体画成一小幅孤立插图",
+  "zh-CN": {
+    "name": "暖赭小幅墨线志",
+    "tagline": "用松动的炭黑墨线和几笔赭黄淡彩，把照片主角画成一小幅孤立插图，画到重点就停笔。",
+    "look": "照片里最好认的主体被画成一小块独立插图：炭黑墨线细而松动，带一点迟疑、断线和寻找线；只在少数关键处薄薄铺一层透明水彩或水粉。颜色限定在暖白纸、炭黑灰、赭石、黄褐、卡其，再加极少的烧橙或陶土橙点睛，不加蓝、绿、紫这类抢戏的颜色。下半部分大约 75–85% 是没画过的纸面，主体只占 15–25%，不画完整背景。少量小字用略带手写感的编辑字体落在留白里。",
+    "traits": [
+      "小幅孤立插图",
+      "松动炭黑墨线",
+      "赭黄卡其淡彩",
+      "少量烧橙点睛",
+      "75–85% 留白"
+    ],
+    "good": [
+      "安静的单一主体：一把椅子、一只狗、一个茶壶、一顶草帽",
+      "有复古暖意的日常物件和小景：老自行车、面包店门口、木窗",
+      "想做成书籍内页小插图、独立杂志配图或菜单插画的照片"
+    ],
+    "poor": [
+      "以蓝绿冷色为核心的照片：大海、森林、蓝天，这些颜色会被换成暖赭色调",
+      "需要满版场景或完整风景的照片，这里只画一小块",
+      "想要写实精描、粗黑描边、卡通或旅游宣传海报效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Warm Ochre Ink-line Spot Illustration",
+    "tagline": "Draws the star of your photo as a small, isolated ink sketch with ochre wash, stopping once the key part is down.",
+    "look": "The most recognisable subject becomes a small stand-alone illustration: thin, loose charcoal-black ink lines with a little hesitation, broken strokes and searching lines, and a thin layer of transparent watercolour or gouache on just a few key areas. The palette is limited to warm white paper, charcoal grey, ochre, tan and khaki, with only a hint of burnt or terracotta orange, and no blue, green or purple to compete. Roughly 75–85% of the design stays as unpainted paper and the subject takes only 15–25%, with no full background. A few small words in a slightly hand-made editorial type sit in the white space.",
+    "traits": [
+      "Small spot illustration",
+      "Loose charcoal lines",
+      "Ochre and khaki wash",
+      "Hint of burnt orange",
+      "75–85% white space"
+    ],
+    "good": [
+      "A quiet single subject: a chair, a dog, a teapot, a straw hat",
+      "Everyday objects and small scenes with vintage warmth: an old bicycle, a bakery doorway, a wooden window",
+      "Photos you want as a small book illustration, an indie-magazine image or a menu drawing"
+    ],
+    "poor": [
+      "Photos built on cool blues and greens: the sea, a forest, a blue sky, which are shifted into warm ochre",
+      "Photos that need a full scene or complete landscape, since only a small patch is drawn",
+      "Requests for detailed realism, heavy black outlines, cartoons or a tourism-poster look"
+    ]
+  },
+  "ja": {
+    "name": "暖かな黄土色の小さな線画",
+    "tagline": "ゆるい炭黒の線と黄土色の淡彩で、写真の主役を小さく独立した挿絵にし、要所を描いたら筆を止めます。",
+    "look": "写真でいちばん目立つ主役を、小さく独立した挿絵にします。炭黒のインク線は細くゆるく、少しためらいがあり、途切れた線や探り線が残ります。透明水彩やガッシュは要所の数か所にだけ薄く置きます。色は温かい白の紙、炭灰、黄土、黄褐、カーキに限り、焦げ橙やテラコッタ色をほんの少し差すだけで、青、緑、紫のような競う色は入れません。画面のおよそ 75〜85% は描かない紙のままで、主役は 15〜25% ほど、背景は描き込みません。手書きの味がある小さな編集書体の言葉が余白に少し入ります。",
+    "traits": [
+      "小さな独立した挿絵",
+      "ゆるい炭黒の線",
+      "黄土とカーキの淡彩",
+      "わずかな焦げ橙",
+      "75〜85% の余白"
+    ],
+    "good": [
+      "静かなひとつの主役：椅子、犬、ティーポット、麦わら帽子",
+      "レトロな温かみのある日用品や小さな景色：古い自転車、パン屋の入口、木の窓",
+      "本の小さな挿絵、インディー雑誌の図版、メニューのイラストにしたい写真"
+    ],
+    "poor": [
+      "青や緑の寒色が中心の写真：海、森、青空（暖かい黄土色の調子に置き換わります）",
+      "画面いっぱいの場面や風景全体が必要な写真（小さな一部分しか描きません）",
+      "精密な写実、太い黒の縁取り、アニメ調、観光ポスター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "따뜻한 황토색 작은 잉크 삽화",
+    "tagline": "느슨한 숯검정 먹선과 황토색 담채로 사진 속 주인공을 작은 독립 삽화로 그리고, 핵심을 그리면 붓을 멈춥니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 작고 독립된 삽화로 그립니다. 숯검정 먹선은 가늘고 느슨하며 약간 머뭇거리고, 끊긴 선과 더듬는 선이 남습니다. 투명 수채나 과슈는 핵심 몇 곳에만 얇게 얹습니다. 색은 따뜻한 흰 종이, 숯 회색, 황토, 황갈색, 카키로 제한하고, 번트 오렌지나 테라코타 주황을 아주 조금만 찍으며, 파랑, 초록, 보라처럼 경쟁하는 색은 넣지 않습니다. 화면의 약 75~85%는 칠하지 않은 종이로 남고 주인공은 15~25%만 차지하며 배경은 다 그리지 않습니다. 손맛이 살짝 있는 작은 편집 글꼴의 글이 여백에 조금 들어갑니다.",
+    "traits": [
+      "작은 독립 삽화",
+      "느슨한 숯검정 선",
+      "황토와 카키 담채",
+      "약간의 번트 오렌지",
+      "75~85% 여백"
+    ],
+    "good": [
+      "조용한 하나의 주인공: 의자, 강아지, 찻주전자, 밀짚모자",
+      "레트로한 온기가 있는 일상 물건과 작은 풍경: 오래된 자전거, 빵집 입구, 나무 창",
+      "책 속 작은 삽화, 독립 잡지 그림, 메뉴 일러스트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "파랑과 초록 같은 찬색이 중심인 사진: 바다, 숲, 파란 하늘(따뜻한 황토 톤으로 바뀝니다)",
+      "꽉 찬 장면이나 풍경 전체가 필요한 사진(작은 부분만 그립니다)",
+      "정밀한 사실 묘사, 굵은 검은 윤곽선, 만화풍, 관광 홍보 포스터 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم صغير بالحبر والمغرة الدافئة",
+    "tagline": "يرسم بطل صورتك اسكتشاً صغيراً معزولاً بالحبر وغسلة مغرة، ويتوقف عند رسم الجزء المهم.",
+    "look": "يصبح أوضح عنصر في الصورة رسماً صغيراً قائماً بذاته: خطوط حبر فحمية رفيعة ومتراخية فيها شيء من التردد، مع خطوط متقطعة وخطوط بحث، وطبقة رقيقة من الألوان المائية الشفافة أو الغواش على مواضع رئيسية قليلة فقط. تقتصر الألوان على ورق أبيض دافئ ورمادي فحمي ومغرة وبني مصفرّ وكاكي، مع لمحة من البرتقالي المحروق أو الطيني، بلا أزرق أو أخضر أو بنفسجي ينافسها. يبقى نحو 75 إلى 85 بالمئة من التصميم ورقاً غير مرسوم، ولا يشغل العنصر إلا 15 إلى 25 بالمئة، بلا خلفية كاملة. وتقع كلمات صغيرة قليلة بخط تحريري فيه أثر اليد في المساحة البيضاء.",
+    "traits": [
+      "رسم صغير معزول",
+      "خطوط فحمية حرة",
+      "غسلة مغرة وكاكي",
+      "لمحة برتقالي محروق",
+      "فراغ 75–85 بالمئة"
+    ],
+    "good": [
+      "عنصر واحد هادئ: كرسي، كلب، إبريق شاي، قبعة من القش",
+      "أشياء يومية ومشاهد صغيرة فيها دفء قديم: دراجة قديمة، مدخل مخبز، نافذة خشبية",
+      "صور تريدها رسماً صغيراً في كتاب أو صورة لمجلة مستقلة أو رسماً لقائمة طعام"
+    ],
+    "poor": [
+      "صور قائمة على الأزرق والأخضر الباردين: البحر، غابة، سماء زرقاء، إذ تتحول إلى درجات المغرة الدافئة",
+      "صور تحتاج إلى مشهد كامل أو منظر طبيعي تام، إذ لا يُرسم إلا جزء صغير",
+      "طلب واقعية مفصلة أو حدود سوداء ثقيلة أو رسوم كرتونية أو مظهر ملصقات سياحية"
+    ]
+  }
+}
